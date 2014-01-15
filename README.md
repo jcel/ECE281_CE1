@@ -17,7 +17,7 @@ CE1 Circuit
 |1|1|1|1|
 
 ####Screen Capture
-![alt text](https://github.com/jcel/ECE281_CE1/master/Capture.PNG "ISE Screen Capture")
+![alt text](https://raw2.github.com/jcel/ECE281_CE1/master/Capture.PNG "ISE Screen Capture")
 Click if picture does not show
 
 ####Analysis
